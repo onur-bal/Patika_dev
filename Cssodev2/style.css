@@ -1,0 +1,16 @@
+.container{
+    /*background-color: black;*/
+    text-align: center;
+   
+}
+
+.border{
+    text-align: center;
+    border: 2px solid white;
+    background-color:#EEEEEE;
+    width: 90%; 
+    height: 100px;
+    margin-left: 5%;
+   
+    
+}
